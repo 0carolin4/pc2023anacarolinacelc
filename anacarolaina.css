@@ -1,24 +1,34 @@
 h1 {
     text-align:center;
-    background-color: purple ;
+    background-color: rgb(197, 106, 197) ;
 }
 h2{
     text-align: center;
+    background-color: rgb(197, 106, 197);
+    font-size: xx-large;
 }
 h3{
-    font-style: oblique;
-    background-color: blue;
     text-align: center;
+    background-color: rgb(197, 106, 197);
+    font-size: xx-large;
 }
 
 p {
     text-align: center;
-    font-size: medium;
+    font-size: large;
 }
+
+em {
+    font-size: x-large; 
+    color: aliceblue;
+
+}
+
 strong {
     font-size: larger;
+    color: rgb(255, 255, 255);
 }
 
 body {
-    background-color: pink;
+    background-color: rgb(245, 159, 220);
 }
