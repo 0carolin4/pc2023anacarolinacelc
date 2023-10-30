@@ -36,3 +36,14 @@ body {
 a {
     font-size: xxlarger;
 }
+
+nav a{
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+
+nav a: hover {
+    color: blue;
+    text-decoration: underline;
+}
